@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**MartinSchmidt/MartinSchmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a GitOps and Cloud Native advocate with a strong focus on EU Cloud solutions.
+Passionate about open source software, self-hosting, and all things Linux.
+I believe in the power of automation to solve complex infrastructure challenges and streamline workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- 🔧 Self-hosting & open source software
+- ☁️ European Cloud infrastructure
+- 🐧 Linux systems
+- 🚀 Cloud Native & GitOps technologies
+- ⚙️ CI/CD automation
